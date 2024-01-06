@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="project1.rental.NewModelPriceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-06T18:31:42" hostname="Matthews-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="priceCode()" classname="project1.rental.NewModelPriceTest" time="0.0"/>
+  <testcase name="renterPointsOneDay()" classname="project1.rental.NewModelPriceTest" time="0.0"/>
+  <testcase name="renterPointsThreeDays()" classname="project1.rental.NewModelPriceTest" time="0.0"/>
+  <testcase name="chargeOneDay()" classname="project1.rental.NewModelPriceTest" time="0.0"/>
+  <testcase name="chargeTwoDays()" classname="project1.rental.NewModelPriceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

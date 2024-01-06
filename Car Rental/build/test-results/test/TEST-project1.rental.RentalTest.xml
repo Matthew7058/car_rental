@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="project1.rental.RentalTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-01-06T18:31:42" hostname="Matthews-MacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="standardRenterPoints()" classname="project1.rental.RentalTest" time="0.004"/>
+  <testcase name="newLongRenterPoints()" classname="project1.rental.RentalTest" time="0.001"/>
+  <testcase name="newShortRenterPoints()" classname="project1.rental.RentalTest" time="0.0"/>
+  <testcase name="standardLongRenterPoints()" classname="project1.rental.RentalTest" time="0.001"/>
+  <testcase name="newModelCharge()" classname="project1.rental.RentalTest" time="0.001"/>
+  <testcase name="luxuryLongRenterPoints()" classname="project1.rental.RentalTest" time="0.001"/>
+  <testcase name="luxuryCharge()" classname="project1.rental.RentalTest" time="0.001"/>
+  <testcase name="luxuryRenterPoints()" classname="project1.rental.RentalTest" time="0.0"/>
+  <testcase name="creation()" classname="project1.rental.RentalTest" time="0.003"/>
+  <testcase name="standardCharge()" classname="project1.rental.RentalTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

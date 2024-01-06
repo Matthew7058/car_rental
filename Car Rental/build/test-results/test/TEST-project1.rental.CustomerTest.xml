@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="project1.rental.CustomerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-01-06T18:31:42" hostname="Matthews-MacBook-Pro.local" time="0.027">
+  <properties/>
+  <testcase name="htmlStatement()" classname="project1.rental.CustomerTest" time="0.003"/>
+  <testcase name="addLuxuryRental()" classname="project1.rental.CustomerTest" time="0.003"/>
+  <testcase name="addRental()" classname="project1.rental.CustomerTest" time="0.001"/>
+  <testcase name="addLongNewModelRental()" classname="project1.rental.CustomerTest" time="0.002"/>
+  <testcase name="addRentalHtmlStatement()" classname="project1.rental.CustomerTest" time="0.003"/>
+  <testcase name="addShortNewModelRental()" classname="project1.rental.CustomerTest" time="0.0"/>
+  <testcase name="addTwoRentals()" classname="project1.rental.CustomerTest" time="0.001"/>
+  <testcase name="creation()" classname="project1.rental.CustomerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

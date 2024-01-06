@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="project1.rental.CarTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-01-06T18:31:42" hostname="Matthews-MacBook-Pro.local" time="0.077">
+  <properties/>
+  <testcase name="standardRenterPoints()" classname="project1.rental.CarTest" time="0.033"/>
+  <testcase name="newLongRenterPoints()" classname="project1.rental.CarTest" time="0.002"/>
+  <testcase name="newShortRenterPoints()" classname="project1.rental.CarTest" time="0.001"/>
+  <testcase name="standardLongRenterPoints()" classname="project1.rental.CarTest" time="0.002"/>
+  <testcase name="newModelCharge()" classname="project1.rental.CarTest" time="0.002"/>
+  <testcase name="luxuryLongRenterPoints()" classname="project1.rental.CarTest" time="0.001"/>
+  <testcase name="luxuryCharge()" classname="project1.rental.CarTest" time="0.003"/>
+  <testcase name="luxuryRenterPoints()" classname="project1.rental.CarTest" time="0.0"/>
+  <testcase name="creation()" classname="project1.rental.CarTest" time="0.001"/>
+  <testcase name="standardCharge()" classname="project1.rental.CarTest" time="0.002"/>
+  <testcase name="changePriceCode()" classname="project1.rental.CarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
